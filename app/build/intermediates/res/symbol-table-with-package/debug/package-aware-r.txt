@@ -678,7 +678,8 @@ id barrier
 id beginning
 id blocking
 id bottom
-id bt_buscar
+id bt_submit_post
+id bt_submit_user
 id buttonPanel
 id center
 id center_horizontal
@@ -700,7 +701,8 @@ id direct
 id disableHome
 id edit_query
 id end
-id et_cep
+id et_post
+id et_user
 id expand_activities_button
 id expanded_menu
 id fill
@@ -787,7 +789,7 @@ id titleDividerNoCustom
 id title_template
 id top
 id topPanel
-id tv_res
+id tv_json
 id uniform
 id up
 id useLogo
